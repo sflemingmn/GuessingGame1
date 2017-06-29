@@ -1,0 +1,16 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\GuessingGame\Start\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\bin\Debug\GuessingGame.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\obj\Debug\GuessingGame.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\obj\Debug\GuessingGame.pdb
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\bin\Debug\GuessingGame.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\bin\Debug\GuessingGame.pdb
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\guessing_game\guessing_game\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\GuessingGame\guessing_game\bin\Debug\GuessingGame.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\GuessingGame\guessing_game\obj\Debug\GuessingGame.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\GuessingGame\guessing_game\obj\Debug\GuessingGame.pdb
